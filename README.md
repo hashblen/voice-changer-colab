@@ -7,6 +7,8 @@ You need an account on https://dashboard.ngrok.com and a token. Change the value
 You also need to have chrome (/maybe others based on chromium) or the electron app `voice-changer-native-client.exe` from w-okada's repository.
 
 ## Running
+Open https://colab.research.google.com/github/hashblen/voice-changer-colab/blob/main/w_okada_voice_changer_running_on_Colab.ipynb
+
 Run each cell one by one. Now paste the link you got from the second cell into chrome (or use `voice-changer-native-client.exe --url https://the-url-that-you-got.ngrok-free.app`)
 
 You're good to go ! Please keep in mind that because there is a substantial delay, changing sliders is a bit tricky.
